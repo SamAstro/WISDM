@@ -35,3 +35,7 @@ This notebook is intended as a tutorial.
 ## License
 
 Files shared under the MIT License.
+
+## Other links
+[link](https://www.kaggle.com/uciml/human-activity-recognition-with-smartphones)
+to the Kaggle 'human activity recognition with smartphones' database
